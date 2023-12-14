@@ -4,7 +4,9 @@
 #!/bin/bash
 
 ad = “batu”
+
 soyad = “dursun”
+
 numara =  “200757020”
 
 echo “  ${ad}  ${soyad} ”
